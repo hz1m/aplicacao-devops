@@ -20,6 +20,6 @@ A lista de integrantes está disponível em http://localhost:3000/integrantes.
 
 Integrantes do Grupo
 
-Huldreich Melo
-Barbara Lima
+Huldreich Melo, 
+Barbara Lima, 
 Maristela dos Santos
