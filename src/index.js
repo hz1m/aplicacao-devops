@@ -8,9 +8,9 @@ app.get('/', (req, res) => {
 app.get('/integrantes', (req, res) => {
   const data = {
     'integrantes': [
-      {'nome': 'Nome Sobrenome1'},
-      {'nome': 'Nome Sobrenome2'},
-      // Adicione os outros integrantes aqui
+      {'nome': 'Huldreich Melo'},
+      {'nome': 'Barbara Lima'},
+      {'nome': 'Maristela dos Santos'}
     ]
   };
   res.json(data);
